@@ -5,11 +5,19 @@ K-Digital Training GIST AI X 융합파이프라인교육 (광주)
 
 목표: MS Visual Studio Code 및 Python Jupyter Notebook을 설치하고, 실행가능하도록 PC에 셋업한다. [Mac/Windows]
 
+학습자료: Microsoft Visual Studio Code 설치 및 환경설정 
+      
+      (https://github.com/dscoool/gist-aix/blob/main/1.%20visual_studio_code_installation.md)
+
 코드: https://github.com/MicrosoftLearning/mslearn-ai900 
 
 2회차 | 8월 6일 | 데이터크롤링 실습
 
 Python을 이용한 웹크롤링
+
+학습자료:
+
+코드: https://github.com/dscoool/gist-aix/blob/main/2.%20image_crawling.py
 
 3회차| 8월 9일 | Open API 실습
 
