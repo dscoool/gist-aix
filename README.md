@@ -31,12 +31,18 @@ https://docs.microsoft.com/ko-kr/azure/cognitive-services/bing-image-search/quic
 4회차 | 8월 9일 | Face Editing
 
 인공지능의 원리(1): 모델 I<br><br>
+http://www.aistudy.co.kr/neural/multilayer_perceptron.htm<br>
+
 MS Azure를 이용한 얼굴 감지 및 분석 실습<br>
 https://docs.microsoft.com/ko-kr/learn/modules/detect-analyze-faces/
 
 5회차 | 8월 10일 | 영상요약
 
 인공지능의 원리(2): 모델 II<br><br>
+http://www.aistudy.co.kr/pattern/support_vector_machine.htm <br>
+http://www.aistudy.co.kr/learning/decision_tree.htm
+http://www.aistudy.co.kr/neural/supervised_learning.htm
+
 AWS Rekognition을 통한 이미지/비디오 분석 실습<br>
 https://docs.aws.amazon.com/code-samples/latest/catalog/code-catalog-python-example_code-rekognition.html
 
