@@ -49,25 +49,36 @@ https://docs.aws.amazon.com/code-samples/latest/catalog/code-catalog-python-exam
 Azure텍스트 분석: ipynb 파일을 이용하여 텍스트 분석 실습<br>
 https://docs.microsoft.com/ko-kr/learn/modules/analyze-text-with-text-analytics-service/3-exercise
 
-8회차 | 8월 13일 | 추천 시스템<br>
-음식 추천 & 인식 시스템 체험<br>
-https://www.kaggle.com/c/food-recognition-challenge/data
-https://github.com/KangminP/NAMORE
-https://github.com/kimevanjunseok/Re-cipe/tree/master/backend
+8회차 | 8월 13일 | Face-Aging (AI로 얼굴 나이 수정하기) <br>
+Face-aging: https://github.com/ZZUTK/Face-Aging-CAAE
 
-9회차 | 8월 16일 | 추천 시스템 (2)<br>
-음식 추천 & 인식 시스템 체험(2)<br>
-https://www.kaggle.com/c/food-recognition-challenge/data
-https://github.com/KangminP/NAMORE
-https://github.com/kimevanjunseok/Re-cipe/tree/master/backend
+9회차 | 8월 16일 | 데이터3법 및 데이터 소유권, 개인정보보호, GDPR (Global Data Protection Regulation) 
+데이터정보보호, 개인정보처리, 데이터분석 및 인공지능을 할 때 유의해야 할 점!!
+https://www.privacy.go.kr/edu/inf/EduInfoList.do?lecture_code=06
 
-10회차 | 8월 17일 | 과제 제출 및 종강<br>
+10회차 | 8월 17일 | 추천 시스템<br>
+음식 추천 & 인식 시스템 체험: <br>
+https://www.kaggle.com/c/food-recognition-challenge/data <br>
+https://github.com/KangminP/NAMORE <br>
+https://github.com/kimevanjunseok/Re-cipe/tree/master/backend <br>
+
+11회차 | 8월 18일 | 추천 시스템 (2)<br>
+음식 추천 & 인식 시스템 체험(2) : <br>
+https://www.kaggle.com/c/food-recognition-challenge/data <br>
+https://github.com/KangminP/NAMORE <br>
+https://github.com/kimevanjunseok/Re-cipe/tree/master/backend <br>
+
+12회차 | 8월 19일 | 과제 제출 및 종강<br>
 
 Reference (참고자료) :<br>
 https://github.com/MicrosoftLearning/mslearn-ai900 <br>
 https://docs.aws.amazon.com/code-samples/latest/catalog/code-catalog-python-example_code-rekognition.html <br>
 https://docs.microsoft.com/ko-kr/learn/paths/explore-computer-vision-microsoft-azure/ <br>
 <br><br><br>
+
+
+
+
 K-Digital Training 프로젝트 기반 러닝 교과I (PBL, CJ올리브네트웍스, 14일, 광주)
 
 Project Team A. Face Editing AI (5명, 2팀)
