@@ -33,24 +33,25 @@ https://docs.microsoft.com/ko-kr/learn/modules/detect-analyze-faces/
 
 5회차 | 8월 10일 | 영상요약
 
-AWS Rekognition을 통한 이미지/비디오 분석 실습
+AWS Rekognition을 통한 이미지/비디오 분석 실습<br>
 https://docs.aws.amazon.com/code-samples/latest/catalog/code-catalog-python-example_code-rekognition.html
 
 6회차 | 8월 11일 | 영상요약(2)
 
-AWS Rekognition을 통한 이미지/비디오 분석 실습
+AWS Rekognition을 통한 이미지/비디오 분석 실습<br>
 https://docs.aws.amazon.com/code-samples/latest/catalog/code-catalog-python-example_code-rekognition.html
 
 -- 프로젝트 배정
 
 7회차 | 8월 12일 | Text Analysis
-Azure텍스트 분석: ipynb 파일을 이용하여 텍스트 분석 실습
+Azure텍스트 분석: ipynb 파일을 이용하여 텍스트 분석 실습<br>
 https://docs.microsoft.com/ko-kr/learn/modules/analyze-text-with-text-analytics-service/3-exercise
 
 8회차 | 8월 13일 | 추천 시스템
-https://github.com/gsunit/Food-Recommendation-System-Python (미정)
+https://www.kaggle.com/c/food-recognition-challenge/data
 
 9회차 | 8월 16일 | 추천 시스템 (2)
+https://www.kaggle.com/c/food-recognition-challenge/data
 
 10회차 | 8월 17일 | 과제 제출 및 종강
 
