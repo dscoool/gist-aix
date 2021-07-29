@@ -50,11 +50,11 @@ Azure텍스트 분석: ipynb 파일을 이용하여 텍스트 분석 실습<br>
 https://docs.microsoft.com/ko-kr/learn/modules/analyze-text-with-text-analytics-service/3-exercise
 
 8회차 | 8월 13일 | Face-Aging (AI로 얼굴 나이 수정하기) <br>
-Face-aging: https://github.com/ZZUTK/Face-Aging-CAAE
+Face-aging: https://github.com/ZZUTK/Face-Aging-CAAE <br>
 
-9회차 | 8월 16일 | 데이터3법 및 데이터 소유권, 개인정보보호, GDPR (Global Data Protection Regulation) 
-데이터정보보호, 개인정보처리, 데이터분석 및 인공지능을 할 때 유의해야 할 점!!
-https://www.privacy.go.kr/edu/inf/EduInfoList.do?lecture_code=06
+9회차 | 8월 16일 | 데이터3법 및 데이터 소유권, 개인정보보호, GDPR (Global Data Protection Regulation)  <br>
+데이터정보보호, 개인정보처리, 데이터분석 및 인공지능을 할 때 유의해야 할 점!!<br>
+https://www.privacy.go.kr/edu/inf/EduInfoList.do?lecture_code=06 <br><br>
 
 10회차 | 8월 17일 | 추천 시스템<br>
 음식 추천 & 인식 시스템 체험: <br>
