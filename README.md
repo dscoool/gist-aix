@@ -15,7 +15,9 @@ K-Digital Training GIST AI X 융합파이프라인교육 (광주)
 
 2회차 | 8월 5일 | 데이터크롤링 실습
 
-자기소개 | Python을 이용한 웹크롤링
+**자기소개 
+
+Python을 이용한 웹크롤링
 
 학습자료:
 
@@ -41,7 +43,7 @@ https://docs.aws.amazon.com/code-samples/latest/catalog/code-catalog-python-exam
 AWS Rekognition을 통한 이미지/비디오 분석 실습<br>
 https://docs.aws.amazon.com/code-samples/latest/catalog/code-catalog-python-example_code-rekognition.html
 
--- 프로젝트 배정
+**프로젝트 배정
 
 7회차 | 8월 12일 | Text Analysis
 Azure텍스트 분석: ipynb 파일을 이용하여 텍스트 분석 실습<br>
