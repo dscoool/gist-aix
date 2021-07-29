@@ -47,13 +47,13 @@ https://docs.aws.amazon.com/code-samples/latest/catalog/code-catalog-python-exam
 Azure텍스트 분석: ipynb 파일을 이용하여 텍스트 분석 실습<br>
 https://docs.microsoft.com/ko-kr/learn/modules/analyze-text-with-text-analytics-service/3-exercise
 
-8회차 | 8월 13일 | 추천 시스템
+8회차 | 8월 13일 | 추천 시스템<br>
 https://www.kaggle.com/c/food-recognition-challenge/data
 
-9회차 | 8월 16일 | 추천 시스템 (2)
+9회차 | 8월 16일 | 추천 시스템 (2)<br>
 https://www.kaggle.com/c/food-recognition-challenge/data
 
-10회차 | 8월 17일 | 과제 제출 및 종강
+10회차 | 8월 17일 | 과제 제출 및 종강<br>
 
 Reference (참고자료) :
 https://github.com/MicrosoftLearning/mslearn-ai900
