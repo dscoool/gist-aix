@@ -96,16 +96,16 @@ Project Team A. Face Editing AI (5명, 2팀)
 
 10)	프리젠테이션
 -	프로젝트 수행 결과를 프리젠테이션을 통해 발표합니다.
-
-Reference:
-            a. face-aging
+ 
+Reference: <br>
+            a. face-aging <br>
             https://github.com/ZZUTK/Face-Aging-CAAE (Python 2.7)
-            b.	얼굴 감지
-            https://docs.microsoft.com/ko-kr/azure/cognitive-services/face/concepts/face-detection
-            c. 얼굴 인식
-            https://docs.microsoft.com/ko-kr/azure/cognitive-services/face/concepts/face-recognition
-            d. 얼굴 감지 데이터
-            https://docs.microsoft.com/ko-kr/azure/cognitive-services/face/face-api-how-to-topics/howtodetectfacesinimage
+            b.	얼굴 감지 <br>
+            https://docs.microsoft.com/ko-kr/azure/cognitive-services/face/concepts/face-detection <br>
+            c. 얼굴 인식 <br>
+            https://docs.microsoft.com/ko-kr/azure/cognitive-services/face/concepts/face-recognition <br>
+            d. 얼굴 감지 데이터 <br>
+            https://docs.microsoft.com/ko-kr/azure/cognitive-services/face/face-api-how-to-topics/howtodetectfacesinimage <br>
 
 Project Team B. 주원료와 영양성분 기반 식품 추천 시스템 개발 (5명 x 2팀)
 
@@ -131,12 +131,12 @@ Project Team B. 주원료와 영양성분 기반 식품 추천 시스템 개발 
 
 11)	해당 연구가 어떻게 쓰일 수 있는지를 논의를 통해 재점검하고, Github 등에 연구 수행 결과를 업로드하여 공개합니다.
 
-Reference:
-            ◦ https://github.com/KangminP/NAMORE
-            ◦ https://www.kaggle.com/c/food-recognition-challenge/data
-            ◦ https://jaan.io/food2vec-augmented-cooking-machine-intelligence/
-            ◦ https://github.com/kimevanjunseok/Re-cipe
-            ◦ https://github.com/jinhalim/recipe_bot
+Reference:<br><br>
+            ◦ https://github.com/KangminP/NAMORE <br>
+            ◦ https://www.kaggle.com/c/food-recognition-challenge/data <br>
+            ◦ https://jaan.io/food2vec-augmented-cooking-machine-intelligence/ <br>
+            ◦ https://github.com/kimevanjunseok/Re-cipe <br>
+            ◦ https://github.com/jinhalim/recipe_bot <br>
 
 
 
@@ -185,11 +185,11 @@ Project Team C. 영상요약 AI 서비스 개발 (5명 x 2팀)
 
 Reference:
             1. 저장된 비디오에서 텍스트 감지
-            (Text Detection)
+            (Text Detection)<br>
             https://docs.aws.amazon.com/ko_kr/rekognition/latest/dg/text-detecting-video-procedure.html
-            2. 비디오에서 레이블 감지
+            2. 비디오에서 레이블 감지<br>
             https://docs.aws.amazon.com/ko_kr/rekognition/latest/dg/labels-detecting-labels-video.html
-            3. 비디오 세그먼트 감지
+            3. 비디오 세그먼트 감지<br>
             https://docs.aws.amazon.com/ko_kr/rekognition/latest/dg/segment-example.html
 
 
