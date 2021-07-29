@@ -30,11 +30,13 @@ https://docs.microsoft.com/ko-kr/azure/cognitive-services/bing-image-search/quic
 
 4회차 | 8월 9일 | Face Editing
 
+인공지능의 원리(1): 모델 I
 MS Azure를 이용한 얼굴 감지 및 분석 실습<br>
 https://docs.microsoft.com/ko-kr/learn/modules/detect-analyze-faces/
 
 5회차 | 8월 10일 | 영상요약
 
+인공지능의 원리(2): 모델 II
 AWS Rekognition을 통한 이미지/비디오 분석 실습<br>
 https://docs.aws.amazon.com/code-samples/latest/catalog/code-catalog-python-example_code-rekognition.html
 
