@@ -192,12 +192,12 @@ Project Team C. 영상요약 AI 서비스 개발 (5명 x 2팀)
 -	해당 내용을 담당자 및 교수자에게 발표합니다.
 
 Reference:
-            1. 저장된 비디오에서 텍스트 감지
+            1. 저장된 비디오에서 텍스트 감지<br>
             (Text Detection)<br>
-            https://docs.aws.amazon.com/ko_kr/rekognition/latest/dg/text-detecting-video-procedure.html
+            https://docs.aws.amazon.com/ko_kr/rekognition/latest/dg/text-detecting-video-procedure.html <br>
             2. 비디오에서 레이블 감지<br>
-            https://docs.aws.amazon.com/ko_kr/rekognition/latest/dg/labels-detecting-labels-video.html
+            https://docs.aws.amazon.com/ko_kr/rekognition/latest/dg/labels-detecting-labels-video.html <br>
             3. 비디오 세그먼트 감지<br>
-            https://docs.aws.amazon.com/ko_kr/rekognition/latest/dg/segment-example.html
+            https://docs.aws.amazon.com/ko_kr/rekognition/latest/dg/segment-example.html <br>
 
 
