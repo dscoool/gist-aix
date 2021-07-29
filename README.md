@@ -55,11 +55,11 @@ https://www.kaggle.com/c/food-recognition-challenge/data
 
 10회차 | 8월 17일 | 과제 제출 및 종강<br>
 
-Reference (참고자료) :
-https://github.com/MicrosoftLearning/mslearn-ai900
-https://docs.aws.amazon.com/code-samples/latest/catalog/code-catalog-python-example_code-rekognition.html
-https://docs.microsoft.com/ko-kr/learn/paths/explore-computer-vision-microsoft-azure/
-
+Reference (참고자료) :<br>
+https://github.com/MicrosoftLearning/mslearn-ai900 <br>
+https://docs.aws.amazon.com/code-samples/latest/catalog/code-catalog-python-example_code-rekognition.html <br>
+https://docs.microsoft.com/ko-kr/learn/paths/explore-computer-vision-microsoft-azure/ <br>
+<br><br><br>
 K-Digital Training 프로젝트 기반 러닝 교과I (PBL, CJ올리브네트웍스, 14일, 광주)
 
 Project Team A. Face Editing AI (5명, 2팀)
