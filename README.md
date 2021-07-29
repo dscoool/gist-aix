@@ -25,7 +25,9 @@ Python을 이용한 웹크롤링
 
 3회차| 8월 6일 | Open API 실습
 
-BING image API를 이용하여 이미지를 긁어오는 방법을 실습합니다.<br>
+이론: DATA ANALYST / DATA SCIENTIST / DATA ENGINEER의 특성<br>
+
+실습:BING image API를 이용하여 이미지를 긁어오는 방법을 실습<br>
 https://docs.microsoft.com/ko-kr/azure/cognitive-services/bing-image-search/quickstarts/python
 
 4회차 | 8월 9일 | Face Editing
