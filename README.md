@@ -99,7 +99,7 @@ Project Team A. Face Editing AI (5명, 2팀)
  
 Reference: <br>
             a. face-aging <br>
-            https://github.com/ZZUTK/Face-Aging-CAAE (Python 2.7)
+            https://github.com/ZZUTK/Face-Aging-CAAE (Python 2.7) <br>
             b.	얼굴 감지 <br>
             https://docs.microsoft.com/ko-kr/azure/cognitive-services/face/concepts/face-detection <br>
             c. 얼굴 인식 <br>
