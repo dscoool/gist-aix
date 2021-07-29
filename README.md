@@ -23,12 +23,12 @@ K-Digital Training GIST AI X 융합파이프라인교육 (광주)
 
 3회차| 8월 6일 | Open API 실습
 
-BING image API를 이용하여 이미지를 긁어오는 방법을 실습합니다.
+BING image API를 이용하여 이미지를 긁어오는 방법을 실습합니다.<br>
 https://docs.microsoft.com/ko-kr/azure/cognitive-services/bing-image-search/quickstarts/python
 
 4회차 | 8월 9일 | Face Editing
 
-MS Azure를 이용한 얼굴 감지 및 분석 실습
+MS Azure를 이용한 얼굴 감지 및 분석 실습<br>
 https://docs.microsoft.com/ko-kr/learn/modules/detect-analyze-faces/
 
 5회차 | 8월 10일 | 영상요약
